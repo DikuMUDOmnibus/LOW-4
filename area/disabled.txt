@@ -1,0 +1,8 @@
+kinglist 12 Sage
+induct 12 Sage
+clannum 12 Sage
+clanset 12 Sage
+teach 12 Sage
+ktalk 12 Sage
+prefix 12 SaGe
+END

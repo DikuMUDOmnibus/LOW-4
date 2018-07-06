@@ -1,0 +1,331 @@
+#AREADATA
+Name        Monkeq area~
+Builders    Jade~
+VNUMs       97500 97600
+Security    1
+Recall      3001
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#97500
+monk godly ring~
+a #7holy #4ring#n~
+A Godly ring likes on the ground.~
+~
+9 259 3
+25 0 0 0
+1 1000000 0
+A
+13 10
+A
+19 10
+A
+18 10
+A
+17 -20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#97501
+monk godly collar~
+a #7holy #4collar#n~
+A holy collar lies on the ground~
+~
+9 259 5
+25 0 0 0
+1 1000000 0
+A
+13 25
+A
+19 25
+A
+18 25
+A
+14 300
+A
+17 -20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#97502
+monk holy godly armor breastplate plate~
+a #7holy #4breastplate#n~
+A holy breastplate lies here~
+~
+9 259 9
+25 0 0 0
+1 1000000 0
+A
+5 2
+A
+2 2
+A
+1 2
+A
+19 10
+A
+18 10
+A
+13 100
+A
+14 100
+A
+17 -20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#97503
+monk godly goly leggings leg~
+a pair of #7holy #4leggings#n~
+A holy pair of leggings lie on the ground~
+~
+9 0 33
+25 0 0 0
+1 1000000 0
+A
+14 100
+A
+13 50
+A
+19 2
+A
+18 2
+A
+1 2
+A
+2 2
+A
+17 -20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#97504
+monk god holy boots~
+a pair of #7holy #4boots#n~
+A holy pair of boots lie here~
+~
+9 259 65
+25 0 0 0
+1 1000000 0
+A
+18 10
+A
+19 10
+A
+14 500
+A
+17 -20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#97505
+monk holy god sleeves~
+a pair of #7holy #4sleeves#n~
+A holy pair of sleeves lie here~
+~
+9 259 257
+25 0 0 0
+1 1000000 0
+A
+18 20
+A
+19 20
+A
+13 100
+A
+12 200
+A
+17 -20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#97506
+monk god holy helm helmet~
+a #7holy #4helmet#n~
+A holy helmet lies here~
+~
+9 259 17
+25 0 0 0
+1 1000000 0
+A
+13 25
+A
+18 15
+A
+19 15
+A
+17 -20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#97507
+monk god holy cloak~
+a #7holy #4cloak#n~
+A holy cloak lies here~
+~
+9 259 1025
+25 0 0 0
+1 1000000 0
+A
+14 250
+A
+18 17
+A
+19 17
+A
+17 -20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#97508
+monk holy god visor~
+a #7holy #4visor#n~
+A holy visor lies here~
+~
+9 259 -32767
+25 0 0 0
+1 1000000 0
+A
+14 100
+A
+18 25
+A
+19 25
+A
+13 25
+A
+17 -20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#97509
+monk god holy gloves~
+a pair of #7holy #4gloves#n~
+A holy pair of gloves lie here~
+~
+9 259 129
+25 0 0 0
+1 1000000 0
+A
+3 5
+A
+4 5
+A
+5 5
+A
+18 17
+A
+19 17
+A
+17 -20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#97510
+monk god holy bracer~
+a #7holy #4bracer#n~
+A holy bracer lies here~
+~
+9 259 4097
+25 0 0 0
+1 1000000 0
+A
+1 2
+A
+14 500
+A
+19 5
+A
+18 5
+A
+17 -20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

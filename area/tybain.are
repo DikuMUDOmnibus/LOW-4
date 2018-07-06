@@ -1,0 +1,62 @@
+#AREADATA
+Name        Tybain's Area~
+Builders    Tybain~
+VNUMs       9800 9899
+Security    5
+Flags       0
+End
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#9800
+A hidden clearing in the deep, dark forest~
+~
+0 4 0
+D0
+~
+~
+0 0 9801
+D1
+~
+tree ancient~
+0 0 6119
+S
+#9801
+A hidden path in the deep, dark forest~
+~
+0 0 0
+D2
+~
+~
+0 0 9800
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

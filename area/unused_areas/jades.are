@@ -1,0 +1,154 @@
+#AREADATA
+Name        Jade's area~
+Builders    Jade Quiet Sodalis Tybain~
+VNUMs       97000 97050
+Security    1
+Recall      3001
+End
+
+
+
+#MOBILES
+#97000
+frost giant~
+a frost giant~
+A frost giant stands here breathing icy mist into your face
+~
+Fuck you :)
+~
+1 0 0 S
+112 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#97000
+#1rager #nmask~
+a#1 rager#n mask~
+A rager mask lies here~
+~
+9 0 -32767
+0 0 0 0
+1 0 0
+A
+17 -10
+A
+19 10
+A
+18 10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMS
+#97000
+Jade's Room~
+Architectural splendour hidden by drapes of darkness, surrounds you. 
+This place creates a mood that chills you to the bone as if the darkness
+were choking the very glamour of this place.  Despite the dark setting you
+can make out most of the room, there is a large table running it's length
+with a chair every few paces around the edge, there are several paintings
+hanging on the walls most of which seem to cry out for freedom from the
+smothering darkness.  Several statues stand in the corners of the room, As
+you decide to investigate some of the sculptures and find no respite, the
+statues are of twisted angels, their wings burned and broken, looking
+towards the heavens open mouthed as if calling for forgiveness.  Some of
+them have arrows jutting from their bodies fired from the bows of fellow
+angels.  Elegant pillars of marble reach to the domed, sculpted ceiling and
+glass display cases protect various treasures from the dank air.  
+~
+0 524 0
+S
+#97001
+Tijer's Den~
+|     
+                             //|                              ,|
+                           //,/                             -- |
+                         // / |                         _--   /  ,
+                       /'/ / /                       _--   _/_-- |
+                      ( ( / /'                   _ --     _-- ,/'
+                       \-\/'/|             __----__--\ _--  _/,
+               ,,)))))));, \/--_     __----  ----  __/-  _-- /
+            __))))))))))))));,>/\   /        __----  \--- _--
+           -\(((((''''(((((((( >-\/     ----   __---' _-- -|
+  --==//////((''  .     `)))))), /     ___-----  --\--__--- 
+          ))| @    ;-.     (((((/           __-----'--/
+          ( `|    /  )      )))/      -----__\__-----__------_
+             |   |   |       (/      ------/__-------  ,;::'  \         ,
+             o_);   ;        /      ------/           \,----\  |       /|
+                   ;        (      -----/         `:::|      |;|      < >
+                  |   _      `--------'      /      `:|       \;\_____// 
+            ______/\/-    |                 /        /         --------
+          /-;;.____/;;'  /          ___----(   `;;;/      
+         / //  _;______;'-----------    |;;/\    /    
+        //  | |                        /  |  \;;,\ 
+       (<_  | ;                      /',/-----'  _>
+        \_| ||_                     //-;--------- 
+            `\_|                   (,-- 
+                                    \-\ 
+                                     -- 
+~
+0 524 0
+S
+#97002
+Quiet's Sanctum.~
+Your appear to be in a large room filled with a light misty air about it.
+The mist makes you feel at ease in this unknown place to you.  The floors
+and walls are lavishly covered with a deep blue colored silk.  There is no
+furniture but several comfortable looking pillows off to one corner of the
+room.  A hand drawn picture adorns each wall of the room giving you glimpses
+of the occupants artistic status.  Each of the pictures has dipicted in it a
+silent assassin stalking his victim from the shadows.  One the corner of
+each picture is scribbeld the name Quiet.  The mist plays a light dance
+about your head as if it was alive and understanding.  The sense that
+someone is watching your every move lingers in the depths of your mind.  
+~
+0 4 0
+S
+#97003
+Sodalis' Party Room~
+This room is festive and cheery compared to the rest of the Thrak. 
+Decorations of foil and brightly colored parchment adorn the walls, and
+streamers hang from the large wrought iron chandelier.  Tables and trays
+laden with good victuals, fine drinks and novel items fill the room.  The
+clamour of rambunctious, good-spirited adventurers echoes through the
+chamber.  
+~
+0 4 0
+S
+#97004
+Tybain's Room~
+~
+0 26116 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

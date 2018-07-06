@@ -1,0 +1,147 @@
+#AREA Sage Priceless Items~
+0
+
+#MOBILES
+#200
+moogle~
+A little moogle~
+A little moogle is here collecting stuff
+~
+You see a Female moogle.
+~
+64 8|32|512 1000 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#201
+moogle~
+A little moogle~
+A little moogle is here collectin stuff.
+~
+Its a little moogle dude.
+~
+64 0 1000 S
+22 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+#OBJECTS
+#200
+priceless heart necklace~
+A Heart Necklace~
+A heart necklace is lying here.~
+~
+13 0 1|4
+15 15 15 15
+1 0 15
+#201
+priceless heart ring~
+A Heart Ring~
+A small ring with a heart on it is here.~
+~
+13 0 1|2
+15 15 15 15
+1 0 15
+#202
+priceless crocodile earrings~
+A Pair of Crocodile Earrings~
+A small pair of Crocodile Earrings has been carelessly left here on the
+ground.~
+~
+13 0 1|16
+15 15 15 15
+1 0 15
+#203
+priceless dalmation toy puppy~
+A Dalmation Puppy~
+A small, stuffed, Dalmation puppy has been left here.~
+~
+13 0 1|16384
+15 15 15 15
+1 0 15
+#204
+priceless gizmo stuffed toy~
+A Gizmo Toy~
+A cute little stuffed "Gizmo" toy has been left here.~
+~
+13 0 1|16384
+15 15 15 15 
+1 0 15
+#205
+priceless slipper blue~
+A Blue Slipper~
+A little blue slipper is here on the floor.~
+~
+13 0 1|64
+15 15 15 15
+1 0 15
+#206
+priceless lighter silver Zippo~
+A Silver Zippo Lighter~
+A silver Zippo lighter has been left here, must be out of fluid.~
+~
+13 0 1|16384
+15 15 15 15 
+1 0 15
+E
+zippo~
+You see a small American Flag on one side of the lighter.~
+E
+lighter~
+You see a small engravement on the lighter that says, "Kimmie Loves
+Frank"~
+#207
+priceless necklace mickey~
+a Mickey Necklace~
+A small Mickey Mouse Necklace is here.~
+~
+13 0 1|4
+15 15 15 15
+1 0 15
+#208
+priceless brass dagger~
+A Brass Dagger~
+A tarnished brass dagger is here on the ground.~
+~
+13 0 1|8192
+15 15 15 15 
+1 0 15
+#209
+priceless rusty helm~
+A Rusty Helm~
+A rusty helm is lying here.~
+~
+13 0 1|16
+15 15 15 15
+1 0 15
+#210
+priceless lace boot~
+A Boot Lace~
+You see a lost boot lace on the ground.~
+~
+13 0 1
+15 15 15 15 
+1 0 15
+#211
+priceless letter love~
+a Small Love-Letter~
+A small, neatly written, letter is here on the ground.~
+~
+13 0 1|16384
+15 15 15 15 
+1 0 15
+E
+letter~
+Roses are red, 
+Violets are blue,
+The sea kisses the morning skies,
+tenderly, utterly passionate,
+and this is how "I" love you...
+
+~
+#0
+
+
+#$
+

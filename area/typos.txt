@@ -1,0 +1,3 @@
+[ 3700] Pip: you need to add a nr to your banners for score
+[ 3001] Titanic: sa
+[ 3700] Goliath: You hear an ancient bell toll i nthe distance. Shouldn't toll be tolls? singular noun - singular verb?

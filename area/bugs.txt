@@ -1,0 +1,339 @@
+[*****] BUG: Nanny: bad d->connected -2.
+[*****] BUG: Nanny: bad d->connected -1.
+[*****] BUG: Boot_db: # not found.
+[*****] BUG: Boot_db: # not found.
+[*****] BUG: Boot_db: # not found.
+[*****] BUG: Boot_db: # not found.
+[*****] BUG: Slot_lookup: bad slot 502.
+[*****] BUG: Get_obj_index: bad vnum 8003.
+[*****] BUG: Get_obj_index: bad vnum 8003.
+[*****] BUG: Load_specials: 'M': vnum 28889.
+[*****] BUG: Load_specials: 'M': vnum 28888.
+[*****] BUG: Fread_char: no match. WORD: Bounty
+[*****] BUG: Fread_char: no match. WORD: Bounty
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Load_objects: vnum 20000 duplicated.
+[*****] BUG: Load_objects: vnum 20000 duplicated.
+[*****] BUG: Load_objects: vnum 20001 duplicated.
+[*****] BUG: Load_objects: vnum 30042 duplicated.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Get_room_index: bad vnum 9600.
+[*****] BUG: Get_room_index: bad vnum 27201.
+[*****] BUG: Get_room_index: bad vnum 27201.
+[*****] BUG: Get_room_index: bad vnum 27201.
+[*****] BUG: Get_room_index: bad vnum 27201.
+[*****] BUG: Get_room_index: bad vnum 31805.
+[*****] BUG: Get_room_index: bad vnum 31832.
+[*****] BUG: Get_room_index: bad vnum 31858.
+[*****] BUG: Get_room_index: bad vnum 31884.
+[*****] BUG: Get_room_index: bad vnum 31894.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: 3:0.
+[*****] BUG: 4:0.
+[*****] BUG: 5:0.
+[*****] BUG: 1:0.
+[*****] BUG: Fread_char: no match. WORD: ObjDesc
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Security
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Security
+[*****] BUG: Fread_char: no match. WORD: Security
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Fread_char: no match. WORD: Boards
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Boot_db: # not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Load_mobiles: vnum 30000 duplicated.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Load_objects: vnum 30053 duplicated.
+[*****] BUG: Load_rooms: vnum 30000 has flag not 'DES'.
+[*****] BUG: Get_mob_index: bad vnum 9603.
+[*****] BUG: Get_room_index: bad vnum 26001.
+[*****] BUG: Get_room_index: bad vnum 26001.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Char_to_room: NULL.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Extract_char: char not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Extract_char: char not found.
+[*****] BUG: Close_socket: dclose not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Extract_char: char not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Extract_char: char not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Extract_char: char not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Extract_char: char not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Extract_char: char not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Extract_char: char not found.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Create_mobile: NULL pMobIndex.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Fread_char: no match. WORD: Autostance
+[*****] BUG: Fread_char: no match. WORD: Autostance
+[*****] BUG: Fread_char: no match. WORD: Autostance
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Segmentation violation signal.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Centre Text - string too long!
+[*****] BUG: Fread_number: bad format.
+[ 3713] Erreon: . decomposes.
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Set_fighting: already fighting
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 83.
+[*****] BUG: Act: missing arg2 for code 83.
+[*****] BUG: Act: missing arg2 for code 77.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 83.
+[*****] BUG: Act: missing arg2 for code 83.
+[*****] BUG: Act: missing arg2 for code 77.
+[*****] BUG: Open_area: fopen
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 83.
+[*****] BUG: Act: missing arg2 for code 83.
+[*****] BUG: Act: missing arg2 for code 77.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 83.
+[*****] BUG: Act: missing arg2 for code 83.
+[*****] BUG: Act: missing arg2 for code 77.
+[*****] BUG: Fread_char: no match. WORD: 0
+[*****] BUG: Fread_char: no match. WORD: 200
+[*****] BUG: Fread_char: no match. WORD: 0
+[*****] BUG: Fread_char: no match. WORD: 200
+[*****] BUG: Fread_char: no match. WORD: 200
+[*****] BUG: Fread_char: no match. WORD: 0
+[*****] BUG: Fread_char: no match. WORD: 0
+[*****] BUG: Fread_char: no match. WORD: 0
+[*****] BUG: Fread_char: no match. WORD: 0
+[*****] BUG: Fread_char: no match. WORD: 0
+[*****] BUG: Fread_char: no match. WORD: 0
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_char: no match. WORD: 0
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_char: no match. WORD: Stance
+[*****] BUG: Fread_char: no match. WORD: Version
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_char: no match. WORD: Kingdom
+[*****] BUG: Fread_char: no match. WORD: Pretitle
+[*****] BUG: Fread_char: no match. WORD: asdfasd
+[*****] BUG: Fread_char: no match. WORD: asdfasd
+[*****] BUG: Fread_char: no match. WORD: asdfasd
+[*****] BUG: Fread_char: no match. WORD: 0
+[*****] BUG: Alloc_mem: size 64000 too large.
+[*****] BUG: Fread_char: no match. WORD: 0
+[*****] BUG: Fread_char: no match. WORD: 0
+[*****] BUG: Fread_char: no match. WORD: 0
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Create_object: NULL pObjIndex.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Boot_db: bad section name.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Act: null vch with TO_VICT.
+[*****] BUG: Act: missing arg2 for code 78.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Creating config.sys
+[*****] BUG: Creating config.sys
+[*****] BUG: IMC channel 0 doesn't exist?!
+[*****] BUG: IMC channel 0 doesn't exist?!
+[*****] BUG: IMC channel 0 doesn't exist?!
+[*****] BUG: IMC channel 0 doesn't exist?!
+[*****] BUG: Extract_obj: obj 30042 chobj invalid.
+[*****] BUG: Close_socket: dclose not found.
+[*****] BUG: Creating config.sys

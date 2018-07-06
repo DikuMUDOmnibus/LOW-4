@@ -1,0 +1,264 @@
+#AREADATA
+Name        Newbie Stuff~
+Builders    Order~
+VNUMs       31475 31489
+Security    1
+Flags       0
+End
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#31475
+grey newbie breastplate~
+a #egrey#n newbie breastplate~
+A #egrey#n newbie breastplate is lying here.~
+~
+9 2 9
+0 0 0 0
+10 10000 0
+A
+19 2
+A
+18 2
+A
+1 1
+A
+17 -25
+#31476
+grey newbie helmet~
+a #egrey#n newbie helmet~
+A #egrey#n newbie helmet is lying here.~
+~
+9 2 17
+0 0 0 0
+6 10000 0
+A
+19 2
+A
+18 2
+A
+3 1
+A
+4 1
+A
+17 -15
+#31477
+grey newbie sleeves~
+a pair of #egrey#n newbie sleeves~
+A pair of #egrey#n newbie sleeves are lying here.~
+~
+9 2 257
+0 0 0 0
+7 10000 0
+A
+19 2
+A
+18 2
+A
+2 1
+A
+17 -15
+#31478
+grey newbie leggings~
+a pair of #egrey#n newbie leggings~
+A pair of #egrey#n newbie leggings are lying here.~
+~
+9 2 33
+0 0 0 0
+7 10000 0
+A
+19 2
+A
+18 2
+A
+5 1
+A
+17 -15
+#31479
+grey newbie gauntlets~
+a pair of #egrey#n newbie gauntlets~
+A pair of #egrey#n newbie gauntlets are lying here.~
+~
+9 2 129
+0 0 0 0
+5 10000 0
+A
+19 2
+A
+18 2
+A
+1 1
+A
+17 -10
+#31480
+grey newbie boots~
+a pair of #egrey#n newbie boots~
+A pair of #egrey#n newbie boots are lying here.~
+~
+9 2 65
+0 0 0 0
+5 10000 0
+A
+19 2
+A
+18 2
+A
+14 50
+A
+17 -10
+#31481
+grey newbie bracer~
+a #egrey#n newbie bracer~
+A #egrey#n newbie bracer is lying here.~
+~
+9 2 4097
+0 0 0 0
+3 10000 0
+A
+19 2
+A
+18 2
+A
+17 -10
+#31482
+grey newbie long sword longsword~
+a #egrey#n newbie longsword~
+A #egrey#n newbie longsword is lying here.~
+~
+5 16386 8193
+57034 20 30 3
+6 10000 0
+A
+19 8
+A
+18 8
+A
+13 25
+A
+12 25
+#31483
+grey newbie buckler~
+a #egrey#n newbie buckler~
+A #egrey#n newbie buckler is lying here.~
+~
+9 2 513
+0 0 0 0
+10 10000 0
+A
+19 2
+A
+18 2
+A
+17 -50
+#31484
+grey newbie ring~
+a #egrey#n newbie ring~
+A #egrey#n newbie ring is lying here.~
+~
+9 2 3
+0 0 0 0
+1 10000 0
+A
+19 2
+A
+18 2
+#31485
+grey newbie collar~
+a #egrey#n newbie collar~
+A #egrey#n newbie collar is lying here.~
+~
+9 2 5
+0 0 0 0
+2 10000 0
+A
+19 2
+A
+18 2
+#31486
+grey newbie lantern~
+a #egrey#n newbie lantern~
+A #egrey#n newbie lantern is lying here.~
+~
+1 2 1
+0 0 -1 0
+2 10000 0
+A
+19 2
+A
+18 2
+#31487
+grey newbie belt~
+a #egrey#n newbie belt~
+A #egrey#n newbie belt is lying here.~
+~
+9 2 2049
+6 0 0 0
+25 10000 0
+A
+5 2
+A
+19 2
+#31488
+grey newbie mask~
+a #egrey#n newbie mask~
+A #egrey#n newbie mask is lying here.~
+~
+9 2 -32767
+10 0 0 0
+10 15000 0
+A
+19 4
+A
+18 4
+A
+17 -25
+A
+12 50
+A
+13 50
+A
+14 50
+#31489
+grey newbie cloak~
+a #egrey#n newbie cloak~
+A #egrey#n newbie cloak is lying here.~
+~
+9 2 1025
+0 0 0 0
+4 15000 0
+A
+18 2
+A
+17 -15
+A
+2 2
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

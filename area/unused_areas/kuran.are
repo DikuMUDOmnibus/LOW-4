@@ -1,0 +1,709 @@
+#AREA	New Kuran~
+0
+
+#MOBILES
+#1235
+seed robot~
+Seed~
+This giant machine controls the most delicate parts of this world.
+~
+This is Seed.  All of Seed's old world is gone.  It rebuilt it's new home from scratch.  Amazing how nature...eh science works.
+~
+2|64 128 0 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#1236
+laser Trooper~
+A Laser Trooper~
+An advanced laser trooper stands here eyeing your presence.
+~
+Well...take a good look at this work of art.  Crafted by a wise man indeed.  But could a man create such a perfect being?
+~
+4|32 8192 0 S
+255 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#1237
+plasma Trooper~
+A Plasma Trooper~
+An area guard eyes you intently.
+~
+Wow!  You have never seen a metal of such quality.  And it's weapon looks like it could slice through the hardest diamond...the guard is about to give you a first hand demonstration.
+~
+4|32 8192 0 S
+250 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#1238
+hummer~
+A hummer~
+A mechanical beast buzzes around.
+~
+And you thought that these were out of commission.  The hummers are back and you must find out how they did.
+~
+32|64 8192|524288 0 S
+260 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#1239
+masterbot~
+Masterbot~
+The dreaded Masterbot is back to give you hell!
+~
+It took the people of Midgaard the longest to extinguish these class of monsters than the others.  As you watch it, you notice it is much quicker, stronger, and angrier than the previous models.
+~
+32|64|512|1024 8192 0 S
+240 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#1240
+guardian sentinel~
+Class 5K Guardian~
+The new guardian sentinel's first mission is to destroy YOU!
+~
+The new guardian sentinels were obviously put in to keep intruders like you out.  Careful...those are no average force cannons.
+~
+32|64 8192 0 S
+255 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#1241
+guardian sentinel~
+A Guardian Sentinel~
+This mechanical menace dosn't seem too hard to beat...he looks like one of your friends.
+~
+VRRRRRP
+
+BAH  BACK BEEP SEEP KEEP GRRR RIPPPPP
+
+
+
+BACK KILLLLL STAYYYY DIEEEEE BACK
+
+
+
+iT'S MMMMMMM EEEEEE STTTTTAYYYY BAAAACKK
+~
+64|512|1024 8192|1048576 0 S
+240 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#1242
+worker bot~
+A worker bot~
+A worker bot is diligently working here.
+~
+These worker bots were made to make building new bots easier.  They would not be such a pain in the butt if their were not so many of them.
+~
+2|32|64 8192 0 S
+250 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#0
+
+
+#OBJECTS
+#1235
+field electro~
+electro field~
+A large spark lays here conducting energy.~
+~
+9 0 1|4096
+0 1 6 11
+5 0 0
+A
+13 120
+A
+4 7
+A
+18 10
+A
+19 10
+#1236
+sword laser~
+a laser sword~
+A sword surounded with yellow and red light lays here.~
+~
+5 1|2 1|8192
+0 1 6 3
+35 0 0
+A
+17 -20
+A
+18 15
+A
+19 15
+A
+2 2
+A
+1 -1
+A
+14 -30
+#1237
+sword plasma~
+a plasma sword~
+A sword made up of a radiated ooze stands here point up.~
+~
+5 1|2 1|8192
+0 1 6 1
+35 0 0
+A
+14 0
+A
+2 -1
+A
+5 -1
+A
+17 -35
+A
+18 20
+A
+19 10
+#1238
+force cannon~
+an advanced Force Cannon~
+The object of all war and destruction lays at your feet.~
+~
+5 0 1|8192
+0 1 6 6
+100 0 0
+A
+1 3
+A
+17 -50
+A
+18 10
+A
+19 10
+A
+4 -4
+A
+24 2
+#0
+
+
+#ROOMS
+#1235
+Control Matrix~
+This room controls everything around.  You just can't put your finger on it but you know you've been here before.  In the center of the room a familiar machine has snakes running to and from it.
+~
+0 4 0
+S
+#1236
+A Shiny Hallway~
+This room is so shiny that you can see your reflection in the walls and floors.  Man...someone can really get lost here.
+~
+0 8192 0
+D0
+~
+~
+0 -1 1237
+D1
+~
+~
+0 -1 1239
+D2
+~
+~
+0 -1 1238
+D3
+~
+~
+0 -1 1240
+S
+#1237
+A Shiny Hallway~
+This room is so shiny that you can see your reflection in the walls and floors.  Man...someone can really get lost here.
+~
+0 8192 0
+D0
+~
+~
+0 -1 1239
+D1
+~
+~
+0 -1 1241
+D2
+~
+~
+0 -1 1238
+D3
+~
+~
+0 -1 1240
+S
+#1238
+A Shiny Hallway~
+This room is so shiny that you can see your reflection in the walls and floors.  Man...someone can really get lost here.
+~
+0 8192 0
+D0
+~
+~
+0 -1 1236
+D1
+~
+~
+0 -1 1239
+D2
+~
+~
+0 -1 1239
+D3
+~
+~
+0 -1 1241
+S
+#1239
+A Shiny Hallway~
+This room is so shiny that you can see your reflection in the walls and floors.  Man...someone can really get lost here.
+~
+0 8192 0
+D0
+~
+~
+0 -1 1238
+D1
+~
+~
+0 -1 1245
+D2
+~
+~
+0 -1 1237
+D3
+~
+~
+0 -1 1236
+S
+#1240
+A Shiny Hallway~
+This room is so shiny that you can see your reflection in the walls and floors.  Man...someone can really get lost here.
+~
+0 8192 0
+D0
+~
+~
+0 -1 1247
+D1
+~
+~
+0 -1 1236
+D2
+~
+~
+0 -1 1247
+D3
+~
+~
+0 -1 1245
+S
+#1241
+A Shiny Hallway~
+This room is so shiny that you can see your reflection in the walls and floors.  Man...someone can really get lost here.
+~
+0 8192 0
+D0
+~
+~
+0 -1 1242
+D1
+~
+~
+0 -1 1238
+D2
+~
+~
+0 -1 1235
+D3
+~
+~
+0 -1 1237
+S
+#1242
+A Dark Hallway~
+Man oh man this place is dark.  As you feel around...you notice you are bumping into a lot of stuff.  Hmm.  The stuff you are bumping into seems like it's moving.
+~
+0 1 0
+D0
+~
+~
+0 -1 1243
+D1
+~
+~
+0 -1 1245
+D2
+~
+~
+0 -1 1246
+D3
+~
+~
+0 -1 1244
+S
+#1243
+A Dark Hallway~
+Man oh man this place is dark.  As you feel around...you notice you are bumping into a lot of stuff.  Hmm.  The stuff you are bumping into seems like it's moving.
+~
+0 1 0
+D0
+~
+~
+0 -1 1246
+D1
+~
+~
+0 -1 1245
+D2
+~
+~
+0 -1 1244
+D3
+~
+~
+0 -1 1247
+S
+#1244
+A Dark Hallway~
+Man oh man this place is dark.  As you feel around...you notice you are bumping into a lot of stuff.  Hmm.  The stuff you are bumping into seems like it's moving.
+~
+0 1 0
+D0
+~
+~
+0 -1 1243
+D1
+~
+~
+0 -1 1242
+D2
+~
+~
+0 -1 1245
+D3
+~
+~
+0 -1 1246
+S
+#1245
+A Dark Hallway~
+Man oh man this place is dark.  As you feel around...you notice you are bumping into a lot of stuff.  Hmm.  The stuff you are bumping into seems like it's moving.
+~
+0 1 0
+D0
+~
+~
+0 -1 1244
+D1
+~
+~
+0 -1 1247
+D2
+~
+~
+0 -1 1235
+D3
+~
+~
+0 -1 1242
+S
+#1246
+A Dark Hallway~
+Man oh man this place is dark.  As you feel around...you notice you are bumping into a lot of stuff.  Hmm.  The stuff you are bumping into seems like it's moving.
+~
+0 1 0
+D0
+~
+~
+0 -1 1242
+D1
+~
+~
+0 -1 1244
+D2
+~
+~
+0 -1 1243
+D3
+~
+~
+0 -1 1238
+S
+#1247
+A Dark Hallway~
+Man oh man this place is dark.  As you feel around...you notice you are bumping into a lot of stuff.  Hmm.  The stuff you are bumping into seems like it's moving.
+~
+0 1 0
+D0
+~
+~
+0 -1 1240
+D1
+~
+~
+0 -1 1243
+D2
+~
+~
+0 -1 1239
+D3
+~
+~
+0 -1 1241
+S
+#1248
+Landing Bay~
+Here is the landing bay of the once great kuran.  Conquered by the people of MIdgaard several years ago Kuran was destroyed and left for dead.  They never did find the Control Matrix where layed the heart of Kuran, Seed.
+
+The ruins of Kuran lay south
+~
+0 4 0
+D2
+~
+~
+0 -1 1249
+S
+#1249
+Some ruins of Kuran~
+Hmmmmmmmmm
+
+These don't look like ruins.  It looks like Kuran is being rebuilt.  But by what?  What can be causing this revamping of the legendary world.
+~
+0 0 0
+D0
+~
+~
+0 -1 1248
+D2
+~
+~
+0 -1 1250
+S
+#1250
+A weird intersection~
+As you step into this room you quickly look behind you.  It is different behind you than it was before.  There is a shiny room to the west and a dark room to the east.  You have a sudden urge to keep going south and see what's there.
+~
+0 0 0
+D0
+~
+~
+0 -1 1253
+D1
+~
+~
+0 -1 1242
+D2
+~
+~
+0 -1 1251
+D3
+~
+~
+0 -1 1236
+S
+#1251
+Another weird intersection~
+To the west you see a shiny room and to the east a dark room.  What is all this?  You see new flying mechanical beast and new Guardian Sentinals.  You should go back to Midgaard and report this.
+~
+0 0 0
+D0
+~
+~
+0 -1 1250
+D1
+~
+~
+0 -1 1242
+D2
+~
+~
+0 -1 1252
+D3
+~
+~
+0 -1 1236
+S
+#1252
+The End of the Line~
+You should have went to Midgaard when you had the chance.  Now meet your fate.
+~
+0 4 0
+S
+#1253
+A Dead End~
+Wow a dead end.  What other wonders lay ahead?
+~
+0 0 1
+D2
+~
+~
+0 -1 1250
+D5
+~
+~
+1 -1 1254
+S
+#1254
+Robotics Plant~
+You see several people of Midgaard here left and right.  They are making new kuran robots.  Sentinels, hummers, troopers, the works.  What could be doing this.  You notice that some of the people are being turned into Sentinels!!!
+~
+0 0 0
+D2
+~
+~
+0 -1 1255
+D4
+~
+~
+1 -1 1253
+S
+#1255
+Robotics Plant~
+Your friends and neighbors all being put into labor like this. Some of them even losing their ability to freely think.  You do not know how much more you can take of this.
+~
+0 0 0
+D0
+~
+~
+0 -1 1254
+D3
+~
+~
+0 -1 1256
+S
+#1256
+Assembly Line~
+Several worker bots are here.
+
+Oh crap!  They see you!
+~
+0 0 0
+D1
+~
+~
+0 -1 1255
+S
+#0
+
+
+#RESETS
+*
+M 1 1235 1 1235			Seed to Control Matrix
+G 1 1235 100
+R 1 1236 4			; Randomize A Shiny Hallway
+*
+M 1 1236 1 1236			A Laser Trooper to A Shiny Hallway
+E 1 1236 100 16
+*
+*
+M 1 1236 1 1237			A Laser Trooper to A Shiny Hallway
+E 1 1236 100 16
+*
+M 1 1236 1 1238			A Laser Trooper to A Shiny Hallway
+E 1 1236 100 16
+*
+*
+M 1 1236 1 1239			A Laser Trooper to A Shiny Hallway
+E 1 1236 100 16
+*
+M 1 1236 1 1240			A Laser Trooper to A Shiny Hallway
+E 1 1236 100 16
+*
+M 1 1236 1 1241			A Laser Trooper to A Shiny Hallway
+E 1 1236 100 16
+R 1 1237 4			; Randomize A Shiny Hallway
+R 1 1238 4			; Randomize A Shiny Hallway
+R 1 1239 4			; Randomize A Shiny Hallway
+R 1 1240 4			; Randomize A Shiny Hallway
+R 1 1241 4			; Randomize A Shiny Hallway
+*
+M 1 1237 1 1242			A Plasma Trooper to A Dark Hallway
+E 1 1237 100 16
+*
+M 1 1237 1 1243			A Plasma Trooper to A Dark Hallway
+E 1 1237 100 16
+*
+M 1 1237 1 1245			A Plasma Trooper to A Dark Hallway
+E 1 1237 100 16
+*
+M 1 1237 1 1244			A Plasma Trooper to A Dark Hallway
+E 1 1237 100 16
+*
+M 1 1237 1 1246			A Plasma Trooper to A Dark Hallway
+E 1 1237 100 16
+*
+M 1 1237 1 1247			A Plasma Trooper to A Dark Hallway
+E 1 1237 100 16
+R 1 1242 4			; Randomize A Dark Hallway
+R 1 1243 4			; Randomize A Dark Hallway
+*
+M 1 1236 1 1252
+E 1 1236 100 16
+*
+M 1 1236 1 1252
+E 1 1236 100 16
+*
+M 1 1236 1 1252			A Laser Trooper to The End of the Line
+*
+M 1 1236 1 1252			A Laser Trooper to The End of the Line
+*
+M 1 1236 1 1252			A Laser Trooper to The End of the Line
+*
+M 1 1237 1 1252			A Plasma Trooper to The End of the Line
+*
+M 1 1237 1 1252			A Plasma Trooper to The End of the Line
+*
+M 1 1237 1 1252			A Plasma Trooper to The End of the Line
+*
+M 1 1240 1 1254			Class 5K Guardian to Robotics Plant
+E 1 1238 100 16
+*
+M 1 1241 1 1256			A Guardian Sentinel to Assembly Line
+*
+M 1 1242 1 1256			A worker bot to Assembly Line
+*
+M 1 1242 1 1256			A worker bot to Assembly Line
+*
+M 1 1242 1 1256			A worker bot to Assembly Line
+*
+M 1 1242 1 1256			A worker bot to Assembly Line
+*
+M 1 1242 1 1256			A worker bot to Assembly Line
+*
+M 1 1242 1 1256			A worker bot to Assembly Line
+*
+M 1 1242 1 1256			A worker bot to Assembly Line
+*
+M 1 1242 1 1256			A worker bot to Assembly Line
+*
+M 1 1242 1 1256			A worker bot to Assembly Line
+*
+*
+M 1 1239 1 1253			Masterbot to A Dead End
+*
+M 1 1239 1 1253			Masterbot to A Dead End
+*
+M 1 1238 1 1251			A hummer to Another weird intersection
+*
+M 1 1240 1 1251			Class 5K Guardian to Another weird intersection
+E 1 1238 100 16
+*
+M 1 1241 1 1251			A Guardian Sentinel to Another weird intersection
+*
+M 1 1238 1 1251			A hummer to Another weird intersection
+S
+
+
+#SPECIALS
+M  1235 spec_breath_gas			Seed
+M  1236 spec_guard			A Laser Trooper
+M  1237 spec_guard			A Plasma Trooper
+M  1238 spec_fido			A hummer
+M  1241 spec_breath_any			A Guardian Sentinel
+S
+
+
+#$

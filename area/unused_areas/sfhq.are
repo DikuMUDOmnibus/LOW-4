@@ -1,0 +1,149 @@
+#AREA	{ 5 35} M.Z.F.  Silver Fangs HQ~
+0
+
+#MOBILES
+#9000
+Fenris~
+The Fenris Wolf~
+The Fenris Wolf guards these halls.
+~
+The Fenris Wolf guards these halls.  And sneers at your appearance.
+~
+2|64 8|128 1000 S
+999 2 2 1d1+1499 2d4+30
+12000 0
+8 8 1#0
+
+
+#OBJECTS
+#0
+
+#ROOMS
+#9000
+Silver Fangs Lounge~
+Scattered amongst the room are lazyboy recliners and couches.  In the corner is the biggest entertainment system you have ever seen.
+~
+0 1024 0
+D1
+~
+~
+0 -1 9003
+D2
+~
+~
+0 -1 9001
+S
+#9001
+Clan Recall~
+This place is huge!  You can hear snarls echoing but you can't quite place which direction they are coming from.
+~
+0 0 0
+D0
+~
+~
+0 -1 9000
+D1
+~
+~
+0 -1 9004
+D3
+~
+~
+0 -1 9002
+S
+#9002
+Portals~
+There are shimmering portals everywhere.
+Just look at the sign or plaque.
+~
+0 0 0
+D1
+~
+~
+0 -1 9001
+E
+sign plaque~
+The sign seems to be a list of areas.  The following are listed:
+Timelord, Galaxy, Sphinx, Member of Staff, Midgaard.
+~
+T
+sphinx~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2652 0
+T
+staff~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 25008 0
+T
+midgaard~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 3001 0
+T
+timelord~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2549 0
+T
+galaxy~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 9302 0
+S
+#9003
+Clan EQ Room~
+This is the place where all Silver Fangs loot goes.  To help newbie Silver Fangs get decent eq.
+~
+0 1024 0
+D3
+~
+~
+0 -1 9000
+S
+#9004
+Death Chamber~
+The smell of rotting flesh fills the air and you begin to wonder if it's really safe to be here.  Then you notice the huge guardian glaring at you.
+~
+0 0 0
+D1
+~
+~
+0 -1 9005
+D3
+~
+~
+0 -1 9001
+S
+#9005
+Silver Fangs Entrance~
+The entrance to this place relays a message to you...
+'GET OUT IF YOU AREN'T SILVER FANGS!'
+~
+0 0 0
+D1
+~
+~
+0 -1 7005
+D3
+~
+~
+0 -1 9004
+S
+#0
+
+#RESETS
+M 1 9000 1 9004              Fenris at Death Chamber
+S
+
+#SPECIALS
+M  9000    spec_clan_silver_fangs                 Fenris
+S
+
+#$

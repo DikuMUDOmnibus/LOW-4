@@ -1,0 +1,50 @@
+#AREADATA
+Name        OLC Testing Area~
+Builders    Ashtor Sage~
+VNUMs       40000 40005
+Security    1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#-25536
+~
+~
+0 0 0
+S
+#-25536
+~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

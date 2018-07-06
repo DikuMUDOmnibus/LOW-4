@@ -1,0 +1,45 @@
+#AREADATA
+Name        Aftershocks Zone~
+Builders    Aftershock~
+VNUMs       9900 9999
+Security    5
+Flags       0
+End
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#9900
+The beginning of a foggy stairway.~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

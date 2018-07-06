@@ -1,0 +1,15 @@
+If you have a problem with crypt when compile add a -lcrypt to your
+Makefile. If you need help sage@sover.net.
+Okay you are now running a stock Lords of War mud Congratulations.
+
+In kav_wiz.c, do_relevel there are places for your gods to be set as 
+imps there. By adding your self here you can type relevel and be releved to 
+an imp.I hope you enjoy. Also search for NONAME throught the code..you should put
+your imps name in the NONAME places. If you use grep rember it is case sensitive so 
+grep NONAME *.c will find you all the NONAME places. :)
+-Sage
+***PICO MERC.H SEARCH FOR MAIN_PORT CHANGE IT TO YOUR PORT NUMBER!***
+Questions?
+EMAIL:sage@sover.net
+READ THE README.TXT VERY IMPORANT!
+**FOLLOW THE GW/LOW LICENSE TERMS!***

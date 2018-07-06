@@ -1,0 +1,148 @@
+#AREA	Loial     Apocalypse Castle~
+0
+
+#MOBILES
+#9500
+guard~
+The Guard of Apocalypse Castle~
+Guard of Apocalypse Castle
+~
+A Guard of Apocalypse Castle is Standing here eyeing you carefully.
+~
+2|4|64 128|512|8192|524288|1048576 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#9501
+dragon~
+The Black Dragon~
+The Black Dragon Snarls At You
+~
+A Large bat-black dragon with glowing red eyes stares back at you through the darkness.
+~
+2|4|64 8|32|128|512|8192|524288|1048576 0 S
+250 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#9500
+plate dragon~
+Dragonhide Plate~
+A plate made of a hard substance is lying here.~
+~
+9 0 1|8
+0 0 0 0
+1 0 0
+A
+13 1
+A
+12 2
+A
+17 -2
+A
+18 2
+A
+19 2
+#9501
+sword black~
+The Sword of Apocalypse~
+A sword rests here.~
+~
+5 0 1|8192
+0 0 0 0
+5 0 0
+A
+19 25
+A
+18 25
+A
+13 250
+A
+17 -250
+A
+12 250
+#0
+
+
+#ROOMS
+#9500
+The Castle of Apocalypse~
+Entrance to the Castle of Apocalypse
+~
+0 8 0
+D0
+~
+~
+0 -1 9501
+S
+#9501
+Inside the gate to Apocalypse Castle~
+You are inside the gate to Apocalypse castle, this is the most beautiful castle you have ever seen. Two guards stand here eyeing you suspiciously.
+~
+0 8 0
+D0
+~
+~
+0 -1 9502
+D2
+~
+~
+0 -1 9500
+S
+#9502
+The Courtyard of the Castle~
+As you stand on the soft green grass you look around at all the people and shops in the courtyard.
+~
+0 8 1
+D2
+~
+~
+0 -1 9501
+D5
+~
+~
+0 -1 9503
+S
+#9503
+The Entrance to the Underground Tunnels~
+You stumble upon a underground working system of tunnels and pits. Someone has writen something in the ground with what looks like a stick. **BEWARE OF DRAGON**
+~
+0 1|8 0
+D4
+~
+~
+0 -1 9502
+D5
+~
+~
+0 -1 9504
+S
+#9504
+Inside the Dark Cave~
+You stand inside a deep cave in the tunnel system. Two gleaming red eyes look back at you from the end of the cave.. You recall Remembering the dragon warning....
+~
+0 1|8 0
+D4
+~
+~
+0 -1 9503
+S
+#0
+
+
+#RESETS
+*
+M 1 9500 1 9501			The Guard of Apocalypse Castle to Inside the gate to Apocalypse Castle
+E 1 9501 100 16
+*
+M 1 9500 1 9501			The Guard of Apocalypse Castle to Inside the gate to Apocalypse Castle
+E 1 9501 100 16
+*
+M 1 9501 1 9504			The Black Dragon to Inside the Dark Cave
+S
+
+
+#$

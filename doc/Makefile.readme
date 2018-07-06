@@ -1,0 +1,104 @@
+The makefile in this cleaned up release of LOW4 is my custom makefile. 
+It is quite different, and in my opinion, much better than the standard 
+makefile found in the original release of LOW4.
+
+The code alterations needed to make this makefile work for this mud 
+have already been done so all you need to do is learn how to use it.
+This makefile has some features not found in most codebases so you may 
+find it a little odd to use at first.
+
+First of all, simply typing in make and then doing a copyover will not 
+install the changes into your mud. You will need to go through one more 
+step.
+
+Before we get to the extra step, we must first get past the very first 
+compile after you unzip this code. When you do the first compile, you 
+will notice one vast difference from the original makefile. There is 
+color! The color is tastefully done and highlights the important 
+information.
+
+Ok, lets get over the color and on to the next step. Next you'll have to 
+copy the merc.exe file to the area directory (cp merc.exe ../area). You 
+have to do this because the startup script and copyover code have been 
+changed to point there.
+
+Then you just startup the mud after you perform all the other little 
+tasks needed, like changing the port number in all the right places.
+
+Now, any time you make changes to the mud you would then compile the mud 
+as normal by typing make. Any errors or warnings will show up as bright 
+red, so no more squinting at all the white text trying to find the 
+errors. This will build the executable file in the src directory while 
+the live executable (the one your game is running off of) remains 
+unchanged. This is done so that in the case of a crash, if your changes 
+resulted in an error, you can just startup the mud using the executable 
+that is in running condition.
+
+When your changes result in an error-free compile, you then need to copy 
+the new merc.exe to the area directory while leaving the game running. 
+This is made simple by a new make command. Simply type "make install" 
+and it will automatically rename the live executable to old_merc.exe and 
+move the new merc.exe to the area directory.
+
+Once you do that you just do a copyover in the mud and your new merc.exe 
+is the live executable due to the changes to the copyover command.
+
+To make this clearer, here's the list of steps to take, assuming your
+compile results in no errors.
+
+1. type make
+2. wait for compile
+3. type make install (no wait should be necessary)
+4. switch screens to your mud and type copyover
+5. announce your changes in whatever way you use
+6. hear the mortals complain about one thing or another
+7. slay mortals... wait, sorry, got carried away there, but you get the 
+   idea.
+
+When you need to do a clean compile for whatever reason, just type make 
+clean then type make. After you do that you'll need to copy merc.exe to 
+the area directory, and then type make install. The list of steps for 
+this are listed below.
+
+1. type make clean
+2. type make
+3. wait for compile
+4. type cp merc.exe ../area
+5. type make install
+6. startup the mud
+
+This makefile also has a couple other features that are not in the 
+original makefile.
+
+This makefile features wildcards so that when you add or remove files 
+from the source, you don't need to edit the makefile.
+
+It also has an option to make clean which just removes the .o files. 
+
+There is another option of make cleanup which removes the extra files 
+that aren't needed for a backup. This leaves all files in the area 
+directory and leaves the pfiles alone. It removes all the log files and 
+.o files and it removes all executables. It also removes any files from 
+the backup directory inside the src directory.
+
+I think I've covered everything that needs covering, but if I didn't 
+then I'll update this release with updated readme's.
+
+This makefile is released with no restrictions at all. You don't need to 
+email me letting me know you are using it, you don't need to make a help 
+topic for me giving me credit, there are no other weird requirements 
+either.
+
+All I have is a request, I request you release at least a small snippet
+of your work on any codebase. A good place to do this is
+www.mudbytes.net or www.godwars.net (godwars.net for godwars related
+snippets only).
+
+My goal is to get more people to contribute to the mudding community,
+which would benefit us all. 
+
+Oh, yeah, the only restriction is that you can't claim this as your 
+work. Only Igabod and Tyche can lay any claim to this makefile. Thank 
+you Tyche for helping me get everything working correctly.
+
+-Igabod-

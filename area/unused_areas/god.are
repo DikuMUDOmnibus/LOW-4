@@ -1,0 +1,127 @@
+#AREA   Pendragon    God's Area~
+0
+
+
+#HELPS
+0 $~
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#1200
+The Chat Room~
+You are lounging in a quiet cosy parlour, warmed by a gentle magical fire
+which twinkles happily in a warm fireplace.  There are no doors out.  Clearly
+the owner of this room needs none.
+~
+0 4|8|16|1024 0
+S
+
+#1201
+The God's Lounge~
+You are in a large room with many chairs and footrests, some fabric, some
+leather.  A fireplace burns brightly here, and you feel at peace.  There
+are no doors leading to or from this mystical place.
+~
+0 4|8|16|1024 0
+S
+
+#1202
+Pendragon's Hideaway~
+You stand in a gigantic room, so large that you can barely see the ceiling
+or the far walls from where you stand.  A massive set of bookshelves houses
+Pendragon's personal collection of books, tomes, magickal scrolls, and other
+assorted items of personal value to him.  Along the walls are portraits of
+famous mages, magickal runes, glyphs, sigils, wards, and other inscriptions.
+Not one, but three fireplaces burn here, keeping the room well lit and cozy
+at all times.  Strangely enough, there doesn't seem to be a source of fuel
+for any of the fires.
+~
+0 4|8|16|1024|65536 0
+S
+
+#1203
+Belgarion's room~
+In this room there are all kinds of things you wouldn't normally expect to
+find in one location.  There are pictures of circus clowns decapitating
+walruses on the walls.  Also, in the corner there is a living Jell-O mold
+named "Shecky" but everone calls him "The Living Jell-O Mold" for short.
+~
+0 4|8|16|1024 0 
+T
+|flargle*~
+$n is eaten by a large 'Flargle Beast(tm)'!!!~
+You are sodomized roughly by a large 'Flargle Beast(tm)' and wish you were
+somewhere else.~
+all~
+16384 1 0
+S
+
+#1204
+Merlin's place~
+This will be merlins room if he ever fixes it up.
+~
+0 4|8|16|1024 0
+S
+
+#1205
+Starre's place~
+This one will be Starre's if she ever gets off her arse and makes it.
+~
+0 4|8|16|1024 0 
+S
+
+#1206
+Wyn's place~
+Heres a room for wynnie.
+~
+0 4|8|16|1024 0 
+S
+
+#1207
+Sage's place~
+Sage this ones yours.
+~
+0 4|8|16|1024 0 
+S
+
+#1208
+Biggy's place~
+Yep even biggy gets a room!
+~
+0 4|8|16|1024 0 
+S
+
+#1209
+Shaitan's place~
+Well heres on for you too.
+~
+0 4|8|16|1024 0 
+S
+
+#1210
+Marduk's place~
+This one is yours.
+~
+0 4|8|16|1024 0     
+S
+#0
+
+#RESETS
+S
+
+
+#$
+
+
+

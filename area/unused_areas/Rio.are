@@ -1,0 +1,208 @@
+#AREADATA
+Name        Rio's Area~
+Builders    Rio Rochelle~
+VNUMs       29300 29400
+Security    1
+End
+
+
+
+#MOBILES
+#29300
+Kracken~
+The Kracken~
+The hidious Kracken stands here
+~
+~
+67 128 0 S
+499 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#29301
+The Kracken child~
+The Kracken child~
+The Kracken child plays here.  Just like his father, this brute has vicious tendencies, don't get too close!
+~
+~
+1 0 0 S
+202 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#29302
+a virgin~
+a frighened virgin~
+A Virgin cowers here waiting her fate.  It's a bad day to die
+~
+~
+1 0 0 S
+29 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#29304
+The Kracken's Slave~
+Kracken Slave fear pain~
+The Kracken's Slave wanders around here.  Wracked with fear and pain, he longs for a life of freedom, away from this wretched place.
+~
+~
+1 128 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#29300
+RIO's TEST AREA PLEASE LEAVE~
+You are now well equipment for the trials and tribulations that your life
+in this world has in store for you.  Dangerous creatures and unknown paths
+are waiting for you.  The first step into the unknown is always the most
+difficult 
+~
+0 1037 0
+D1
+~
+~
+0 0 29301
+D3
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 19216
+S
+#29301
+Rio's Test Area DO NOT PLAY HERE!~
+A winding path lays before you, leading towards a dense and dark forest. 
+An eerie looking place, that somehow compels you to move towards it.  You
+jump as something slithers across your feet 
+~
+0 1 0
+D1
+~
+~
+0 0 29302
+D3
+~
+~
+0 0 29300
+S
+#29302
+RIO's TEST AREA DO NOT PLAY HERE~
+The dark forest surrounds you.  You feel it reaching deeper and deeper
+into your mind and soul.  Unnerved, you stumble onwards, crashing through
+the dense shrubbery.  You ignore the pain that the branches and thorns leave
+on your body.  
+~
+0 1 3
+D1
+~
+~
+0 0 29303
+D3
+~
+~
+0 0 29301
+S
+#29303
+RIO's TEST AREA PLEASE LEAVE~
+~
+0 0 3
+D2
+~
+~
+0 0 29304
+S
+#29304
+RIO's TEST AREA PLEASE LEAVE~
+You crash through the undergrowth and grind sharply to a halt.  You gaze
+in amazement and wonder at the sigh before you.  A forest clearing bathed in
+warm sunlight, a picture of serenity and calm.  
+~
+0 0 0
+D0
+~
+~
+0 0 29303
+D2
+~
+~
+0 0 29305
+S
+#29305
+RIO's TEST AREA~
+Delicately coloured flowers scatter the forest floor.  Wildlife of all
+descriptions amble about drinking at the crystal clear pool to the left of
+the clearing.  
+~
+0 0 0
+D0
+~
+~
+0 0 29304
+S
+#29306
+~
+~
+0 4 0
+S
+#29307
+~
+~
+0 4 0
+S
+#29308
+~
+~
+0 4 0
+S
+#29309
+~
+~
+0 4 0
+S
+#29310
+~
+The winding path brings you to the centre of the dark woods. 
+~
+0 16388 0
+S
+#29311
+~
+~
+0 0 0
+D0
+~
+~
+0 0 29300
+S
+#0
+
+
+
+#SPECIALS
+M 29300 spec_fido Load to: The Kracken
+M 29304 spec_janitor Load to: Kracken Slave fear pain
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

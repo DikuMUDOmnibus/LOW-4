@@ -1,0 +1,77 @@
+This is basically just the stock low4 code with all of it's standard 
+bugs still intact. This isn't a bugfix release, I just got tired of the 
+only copies of this code requiring so much work just to get it to 
+startup. Therefore, I have taken it upon myself to correct all of the 
+errors and warnings that pop up with gcc 4.3.2 since that is the latest 
+version available at this time.
+
+Like I said before, this is not a bugfix release, so there is still 
+plenty of work for you to do before this is really player ready. There 
+are no features in this release of the LOW4 code that aren't already in 
+the other versions which are the only ones available at this time. 
+There is however my custom makefile which is a lot better than the 
+standard boring old makefile (In my opinion). There is a help document 
+on this makefile in the doc directory as well.
+
+The IMC support was removed due to the fact that the IMC code in the 
+original LOW4 release is outdated and very buggy. I removed a few other 
+files that are in the original release but weren't even being compiled 
+in the original makefile and were therefore useless.
+
+To get this mud started up all you need to do is go to the src directory 
+and edit the startup script to set the port number to your chosen 
+port. Then in merc.h search for MAIN_PORT and change that number to your 
+port number. 
+
+Then edit the file kav_wiz.c in the do_relevel function where you see 
+sage and tijer and order and NONAME. Put your character's name in there 
+somewhere and your other imp's names in as well, you should be able to 
+figure this part out on your own. Save the file, blah blah, all that.
+
+Then type make. Wait for it to compile, admire the pretty colors 
+and lack of errors and warnings. When the compile completes type the 
+following commands:
+
+cp merc.exe ../area
+make install
+./startup &
+
+The reasons for doing this are further explained in the makefile.readme 
+file in the doc directory.
+
+Once the mud starts up, log in with your character, type relevel and 
+then save. You now have a LOW4 code running and an IMP level character. 
+From this point on you are on your own.
+
+I'm a pretty lazy guy so I'm not going to make a list of all the fixes I 
+made to the code to get it to work for gcc 4.3.2 but rest assured they 
+have all been tested out. This code is no more and no less buggy than 
+the original release.
+
+If you need any further assistance in getting this code up and running, 
+you probably shouldn't be trying to run a mud quite yet, but if you're 
+still determined to jump into this with no knowledge of programming then 
+I reccomend you try the forums at either www.mudbytes.net or 
+www.godwars.net. Godwars.net is probably more well suited for help on 
+this codebase, but mudbytes.net is full of helpful people as well.
+
+All of my work is released with no restrictions on it at all except that 
+you don't claim it as your own. You can even delete this file after 
+you've read it for all I care. You don't need to credit me in a help 
+file or on the greeting screen. You don't have to email me to tell me 
+you're using it. I'm not giving out my email address anyway so you 
+couldn't even if you wanted to.
+
+I do have one request. That request is that you release at least a small 
+snippet of your own work. For any codebase, it doesn't matter. My goal 
+is to get more people contributing to the mudding community. This would 
+benefit all of us greatly.
+
+
+Best of luck with this mess of code,
+-Igabod-
+
+
+P.S. Take a look at the code repository on mudbytes.net and you'll find 
+a few snippets of mine for low4 as well as many other people's work for 
+just about every codebase you can think of.

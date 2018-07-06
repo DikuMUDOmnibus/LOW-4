@@ -1,0 +1,47 @@
+#AREADATA
+Name        Wildernes Link 1~
+Builders    None~
+VNUMs       10000 10001
+Security    1
+Flags       0
+End
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#10000
+Portal to The Wilderness~
+You find your self standing at the edge of the wilderness, what lies the
+other side of this doorway who knows.  
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

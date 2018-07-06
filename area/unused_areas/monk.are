@@ -1,0 +1,169 @@
+#AREA	{ 5 35} M.Z.F.  Monk HQ~
+0
+
+
+#MOBILES
+#28500
+Monk~
+Grieving Monk~
+A grieving monk.
+~
+This monk is grieving over a lost one he was teaching.  The evils of the world took him.  He wishes to re-gain his powers by healing you.
+~
+2|64 8|32|128|512|8192 1000 S
+900 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#ROOMS
+#28500
+Temple~
+You are standing in the large temple.  West is the meeting chambers.  East is where the Abbot sleeps.  North is the altar.  Up the stairs is where the Monks stay.  South is back to town.
+~
+0 0 1
+D0
+~
+~
+0 -1 28503
+D2
+~
+~
+0 -1 3001
+D3
+~
+~
+0 -1 28502
+D4
+~
+~
+0 -1 28504
+S
+#28501
+test~
+Make to 3001
+~
+0 0 1
+D0
+~
+~
+0 -1 28500
+S
+#28502
+Meeting chamber~
+This is where the monks meditate on issues like new evils in the world, which books should be printed, or whatever else might be of interest to them.
+~
+0 0 1
+D1
+~
+~
+0 -1 28500
+S
+#28503
+The Altar~
+It is a small, simple altar, decorated with natural things.
+~
+0 1024 0
+D2
+~
+~
+0 -1 28500
+S
+#28504
+Monk's room~
+This is where the monks sleep.  There are no beds, and it seems empty.  On the wall is a relic from the ancients.  You might want to take a look at it.
+~
+0 0 0
+D5
+~
+~
+0 -1 28500
+E
+relic~
+The writing seems to be a list of areas.  The following are listed: 
+Staff, Sphinx, Timelord, Arachnos, Hightower, Draconia, Galaxy, Megacity, Drow, Canyon, Mahntor.
+~
+T
+timelord~
+$n slowly fades out of existance.~
+Your surroundigs blur and change.~
+all~
+16384 2549 0
+T
+staff~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 25008 0
+T
+sphinx~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2646 0
+T
+arachnos~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 6200 0
+T
+hightower~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 1312 0
+T
+draconia~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2201 0
+T
+galaxy~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9301 0
+T
+megacity~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 8001 0
+T
+drow~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 5100 0
+T
+canyon~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 9201 0
+T
+mahntor~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2362 0
+S
+
+#0
+
+
+#RESETS
+*
+M 1 28500 1 28503			Grieving Monk to The Altar
+S
+
+
+#SPECIALS
+M  28500 spec_cast_adept			Grieving Monk
+S
+
+
+#$
